@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e10db3c6-acf4-4139-a8e2-1bc8bc9cba5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/AddModalForm/AddModalForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AddModalForm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModalForm/EditModalForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModalForm/EditModalForm.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/EditModalForm/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/Search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/User/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/User/User.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/User/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserList/UserList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserList/UserList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UserList/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/antd.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppHeader/AppHeader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppHeader/AppHeader.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddModalForm/AddModalForm.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppHeader/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppMenu/AppMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppMenu/AppMenu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AppMenu/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Less File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bJbZfCMY7TKqPoIcf63DxPJrum" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OS\domains\react-user-cards\src\components" />
+      <recent name="E:\OS\domains\rro-frontend\src\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OS\domains\rro-frontend\public" />
+      <recent name="E:\OS\domains\rro-frontend\build" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e10db3c6-acf4-4139-a8e2-1bc8bc9cba5c" name="Default Changelist" comment="" />
+      <created>1588353201102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588353201102</updated>
+      <workItem from="1588353209993" duration="46317000" />
+      <workItem from="1600691656957" duration="1204000" />
+      <workItem from="1600864539231" duration="4824000" />
+      <workItem from="1601385249443" duration="6348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588357758360">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="377" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.40.1280.680@0.40.1280.680" timestamp="1588357758360" />
+    <state x="371" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588362458817">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="371" y="128" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1280.680@0.40.1280.680" timestamp="1588362458817" />
+    <state x="328" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1588353210711">
+      <screen x="0" y="40" width="1280" height="680" />
+    </state>
+    <state x="328" y="205" key="com.intellij.ide.util.TipDialog/0.40.1280.680@0.40.1280.680" timestamp="1588353210711" />
+  </component>
+</project>
